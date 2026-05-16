@@ -1,12 +1,12 @@
 # Java Format Style
-I spent an entire afternoon with Eclipse just editing the formatting of classes, functions, and lines of code.
+I spent a whole afternoon with Eclipse just editing the formatting of classes, functions and each line of code :D
 
-### Format
+## Format
 - Maximum line width: `100`
 - Identation size: `4`
 - Tab size: `4`
 - Too lazy to update
-### Usage
+## Usage
 1. **For VS Code <br/>**
    - You should be installed this extension https://marketplace.visualstudio.com/items?itemName=redhat.java <br/>
    - After that copy this and paste on your `settings.json`:
@@ -19,7 +19,10 @@ I spent an entire afternoon with Eclipse just editing the formatting of classes,
 2. **For IntelliJ**
    - Download this https://github.com/doansamquoc/java-format-style/blob/main/v1.xml
    - Go to `Settings` > `Editor` > `Code Style` > `Java` > `Import Schema` > `Eclipse XML Profile` and choose file.
-### Preview
+## Preview
+Some images to preview `Java Format Style` with my ugly code :D
+<br/>
+<br/>
 ![Preview](https://github.com/doansamquoc/java-format-style/blob/main/preview/1.png)
 ![Preview](https://github.com/doansamquoc/java-format-style/blob/main/preview/2.png)
 ![Preview](https://github.com/doansamquoc/java-format-style/blob/main/preview/3.png)
