@@ -9,7 +9,7 @@ I spent a whole afternoon with Eclipse just editing the formatting of classes, f
 ## Usage
 1. **For VS Code <br/>**
    - You should be installed this extension https://marketplace.visualstudio.com/items?itemName=redhat.java <br/>
-   - After that copy this and paste on your `settings.json`:
+   - After that copy this and paste into your `settings.json`:
      ```json
      "[java]": {
         "editor.defaultFormatter": "redhat.java",
