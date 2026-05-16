@@ -3,7 +3,7 @@ I spent a whole afternoon with Eclipse just editing the formatting of classes, f
 
 ## Format
 - Maximum line width: `100`
-- Identation size: `4`
+- Indentation size: `4`
 - Tab size: `4`
 - Too lazy to update
 ## Usage
